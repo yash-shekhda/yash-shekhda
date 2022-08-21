@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at My GitHub Profile
 
-- 📫 How to reach me **devloperyash5@gmail.com@gmail.com**
+- 📫 How to reach me **devloperyash5@gmail.com**
 
 - ⚡ Fun fact **I like play games and watch YouTube videos.**
 
