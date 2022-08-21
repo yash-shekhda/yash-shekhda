@@ -1,34 +1,33 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yash</h1>
+<h3 align="center">I'm a passionate Laravel Developer from India.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 i am currently studying in B.tech(IT) at **[Uka Tarsadia University](http://utu.ac.in/)**
+- 🔭 i am currently working at **GM Infotech**
 
-- 🌱 I’m currently learning **Mobile Application Development With Flutter.**
+- 🌱 I’m currently learning **React Js**
 
-- 👯 I’m looking to collaborate on **Flutter Open-Source project**
+- 👯 I’m looking to collaborate on **Laravel and PHP Open-Source project**
 
 - 👨‍💻 All of my projects are available at My GitHub Profile
 
-- 📫 How to reach me **rdarshit111@gmail.com**
+- 📫 How to reach me **devloperyash5@gmail.com@gmail.com**
 
-- ⚡ Fun fact **I play games and watch YouTube videos.**
+- ⚡ Fun fact **I like play games and watch YouTube videos.**
 
 ## 🚀 Languages :
 <br>
 <p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
-    <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a> 
+    <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg"/> </a> 
+    <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/officel/16/000000/php-logo.png"/> </a> 
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> 
     <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://www.eclipse.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
@@ -40,7 +39,6 @@
 <p align="left"> 
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
     <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/nolan/48/github.png"/> </a>
-    <a href="https://developer.android.com/studio/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/android-os.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/office/40/000000/java-eclipse.png"/> </a> 
     <a href="https://www.sublimetext.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/sublime-text.png"/> </a>
 </p>
