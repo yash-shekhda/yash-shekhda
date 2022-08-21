@@ -22,7 +22,7 @@
 <br>
 <p align="left"> 
     <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg"/ width="48px" height="48px"> </a> 
-    <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/officel/16/000000/php-logo.png"/  width="48px" height="48px"> </a> 
+    <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> </a> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> 
     <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://www.eclipse.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
