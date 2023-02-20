@@ -63,17 +63,6 @@
     </a>
 </p>
 
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github-readme-stats.vercel.app/api?username=yash-shekhda&show_icons=true&count_private=true&theme=radical&hide_border=false&"><img alt="Yash Shekhda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yash-shekhda&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d111722" /></a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-shekhda&&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=false&"><img alt="Yash Shekhda's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-shekhda&&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0d111722" /></a>
-    <a href="https://github-readme-stats.vercel.app/api/wakatime?username=yash-shekhda&&langs_count=20&count_private=true&layout=compact&theme=radical&hide_border=false&"><img alt="Yash Shekhda's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=yash-shekhda&&langs_count=20&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0d111722" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
 <br/>
 
 <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Yash Shekhda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yash-shekhda&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
