@@ -50,7 +50,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.sublimetext.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/sublime-text.png"/> </a>
      &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.sublimetext.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/2048px-PhpStorm_Icon.svg.png" width="40px" style="margin:12px;"/> </a>
+    <a href="https://www.sublimetext.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/2048px-PhpStorm_Icon.svg.png" width="40px" style="position:relative;top:-2px;"/> </a>
 </p>
 <br>
 
