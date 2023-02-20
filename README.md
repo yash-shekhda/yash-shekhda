@@ -49,7 +49,7 @@
     <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/nolan/48/github.png"/> </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.sublimetext.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/sublime-text.png"/> </a>
-    <a href="https://www.sublimetext.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/2048px-PhpStorm_Icon.svg.png"/> </a>
+    <a href="https://www.sublimetext.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/2048px-PhpStorm_Icon.svg.png" width="50px"/> </a>
 </p>
 <br>
 
