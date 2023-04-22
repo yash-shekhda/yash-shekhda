@@ -23,6 +23,8 @@
 <p align="left"> 
     <a href="https://laravel.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"  width="48px" height="48px"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://laravel.com/"><img src="https://static.javatpoint.com/codeigniter/images/codeigniter-tutorial.png"  width="48px" height="48px"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> </a> 
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
