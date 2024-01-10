@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 i am currently working at **GM Infotech**
+- 🔭 i am currently working at no where
 
 - 🌱 I’m currently learning **React Js**
 
